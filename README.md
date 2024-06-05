@@ -8,10 +8,7 @@ The purpose of this project is to implement a hello world print to display the c
 
 # Development Environment
 
--Visual Studio Code
--Git / Github
--Javascript
--HTML
+Visual Studio Code, Git / Github, Javascript, HTML
 
 # Useful Websites
 
