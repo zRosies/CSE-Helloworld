@@ -8,10 +8,12 @@ The purpose of this project is to implement a hello world print to display the c
 
 # Development Environment
 
-I used VSCODE and Github to create this project.
-
-HTML and Javascript
+Visual Studio Code
+Git / Github
+Javascript
+HTML
 
 # Useful Websites
 
-- [Web Site Name](https://developer.mozilla.org/pt-BR/)
+- [Javascript](https://developer.mozilla.org/pt-BR/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
